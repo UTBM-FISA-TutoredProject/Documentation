@@ -10,3 +10,5 @@ aux référents Github (<a href="mailto:kilian.goetz@yahoo.fr">Contact</a>).
 le github possède 4 équipes et une cinquième qui est une équipe globale. Chacune des équipes possède son propre projet, les projets possède des kanbans et des tableaux permettant de définir le travail à faire avec un ordre de priorité et un statut.
 
 ## Workflow
+
+![Workflow](./_media/GithubWorkflow.png)
