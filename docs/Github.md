@@ -59,7 +59,7 @@ un tableau **"By Priority"** dans lequel le travail est rangé par priorité. Le
 visualiser de façon efficace un grand nombre d'idées et d'identifier plus facilement celles-ci.
 
 <video controls style="width:80%">
-  <source src="./_media/GithubProjects.webm" type="video/mp4">
+  <source src="./_media/GithubProjects.webm" type="video/webm">
 </video>
 
 ## Workflow et règles
