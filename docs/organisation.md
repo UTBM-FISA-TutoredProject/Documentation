@@ -2,12 +2,12 @@
 
 Les taches à accomplir sont réparties entre plusieurs équipes qui sont respectivement :
 
-- **Frontend engineers**
-- **Backend engineers**
-- **UX/UI engineers**
-- **Infrastructure**
+- **Frontend engineers :** <a href="">Contacter le responsable</a>
+- **Backend engineers :** <a href="">Contacter le responsable</a>
+- **UX/UI engineers :** <a href="">Contacter le responsable</a>
+- **Infrastructure :** <a href="">Contacter le responsable</a>
 
-Les teams ne sont pas figées, si vous souhaitez changer de team il vous suffit de contacter le référent Github et de
+Les équipes ne sont pas figées, si vous souhaitez changer de team il vous suffit de contacter le référent Github et de
 prévenir les référents de chaque team (celle que vous quittez et celle que vous rejoignez). L'importance est que chacun
 puisse trouver son bonheur.
 
