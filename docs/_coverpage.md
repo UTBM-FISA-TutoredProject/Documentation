@@ -1,8 +1,8 @@
 <!-- _coverpage.md -->
 
-![logo](_media/Logo.png)
+![logo](_media/Logo.svg)
 
-# Projet tutoré <sup>©</sup>
+# Neighbook
 
 [GitHub](https://github.com/UTBM-FISA-TutoredProject)
 [Website]()
