@@ -2,18 +2,19 @@
 
 Les taches à accomplir sont réparties entre plusieurs équipes qui sont respectivement :
 
-- **Frontend engineers :** <a href="">Contacter le responsable</a>
-- **Backend engineers :** <a href="">Contacter le responsable</a>
-- **UX/UI engineers :** <a href="">Contacter le responsable</a>
-- **Infrastructure :** <a href="">Contacter le responsable</a>
+- **Équipe lien social :** <a href="">Hugo MEISSONNIER</a>
+- **Équipe marketplace :** <a href="">Yamina OUADAH</a>
+- **Équipe messagerie :** <a href="">Mehdi BENFREDJ</a>
+- **Infrastructure :** <a href="">John FOLLY</a>
 
-Les équipes ne sont pas figées, si vous souhaitez changer de team il vous suffit de contacter le référent Github et de
-prévenir les référents de chaque team (celle que vous quittez et celle que vous rejoignez). L'importance est que chacun
-puisse trouver son bonheur.
+Les équipes ne sont pas figées, si vous souhaitez changer de team il vous suffit de contacter les référents de l'équipe
+de départ, l'équipe d'arrivée et l'équipe infrastructure (afin que vous soyez transféré d'une équipe à l'autre sur
+Github, cela ne change rien au niveau droit, mais permet d'avoir une liste des membres des équipes à jour dans GitHub).
 
 ## Technologies utilisées
 
 Frontend:
+
 - **Langage :** Typescript
 - **Frameworks :** ReactTS
 - **Librairies graphique :** Material UI
@@ -31,6 +32,7 @@ Frontend:
 </div>
 
 Backend :
+
 - **Langage :** Typescript
 - **Framework :** NodeJS
 - **Librarie :** ExpressJS
@@ -48,6 +50,7 @@ Backend :
 </div>
 
 Infrastructure:
+
 - **Hébergeur cloud :** Azure
 - **Scripting Infrastructure :** Terraform
 
@@ -61,6 +64,7 @@ Infrastructure:
 </div>
 
 UX/UI :
+
 - **Outil de maquetage :** Figma
 
 <div style="display:flex;flex-direction:row;">

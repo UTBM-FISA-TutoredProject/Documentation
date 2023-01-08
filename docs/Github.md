@@ -17,13 +17,13 @@ collaborative et de manière simultanée. Git n'est pas le seul SCM il en existe
 Core, etc. on a parlé de Git, mais qu'est-ce que **Github ?** C'est tout simplement une platform en ligne basée sur Git.
 Il existe d'autre platforms tels que Gitlab mais la plus connue.
 
-À cet effet, une <a href="https://github.com/UTBM-FISA-TutoredProject" target="_blank">organisation Github</a> a été
+À cet effet, une <a href="https://github.com/Neighbook" target="_blank">organisation Github</a> a été
 créée pour le projet tutoré. Une organisation est tout simplement une structure morale (entreprise, école, groupe, etc.)
 sur Github. Une organisation regroupe des personnes, des "repositories" qui sont des "dossiers" de stockage de code
 source, des projets, discussions, etc.
 
 :exclamation: <span style="color:red">Si vous ne faites pas partie de l'organisation Github et que vous souhaitez y
-participer, contactez le référent Github (<a href="mailto:kilian.goetz@yahoo.fr">Contact</a>).</span> :exclamation:
+participer, contactez l'équipe infrastructure'(<a href="mailto:kilian.goetz@yahoo.fr">Contact</a>).</span> :exclamation:
 
 ## Équipes et projets
 
@@ -74,9 +74,6 @@ Dans l'organisation vous retrouverez 5 repositories :
 - **Backend** : Contenant le source code de la partie traitement des données du site internet.
 - **Infrastructure** : Contenant les scripts de gestion de l'infrastructure.
 - **.github** : Contenant "le README.md" présentant l'organisation affichée sur l'accueil.
-
-Selon votre appartenance aux différentes équipes, vous aurez soit un accès de lecture, soit d'écriture sur chacun de ces
-repositories.
 
 <a href="https://docs.github.com/en/repositories" target="_blank">***Comment fonctionne un repository ?***</a>
 
